@@ -45,7 +45,7 @@ jobs:
         uses: yanglbme/gitee-pages-action@v1.2.6
         with:
           # The Gitee username, like yanglbme
-          gitee-username: tidys # optional
+          gitee-username: ${{ secrets.GITEE_REPO }} # optional
           # The Gitee password
           gitee-password: ${{ secrets.GITEE_PWD }} # optional
           # The Gitee repository, like doocs/leetcode
