@@ -26,7 +26,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: node ./tools/index.js
+        run: 
+          node ./tools/index.js
+          echo ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
