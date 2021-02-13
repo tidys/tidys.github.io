@@ -28,7 +28,17 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: node ./tools/index.js
-    
+        
+      - name: Sync to Gitee
+        uses: wearerequired/git-mirror-action@master
+        env:
+            # 注意在 Settings->Secrets 配置 GITEE_RSA_PRIVATE_KEY
+            SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
+        with:
+            # 注意替换为你的 GitHub 源仓库地址
+            source-repo: "git@gitee.com:tidys/doc.git"
+         
+
       - name: Gitee Pages Action
       # You may pin to the exact commit or the version.
       # uses: yanglbme/gitee-pages-action@a813811f52ed4f53010702a528b72053bd04685f
@@ -37,7 +47,7 @@ jobs:
           # The Gitee username, like yanglbme
           gitee-username: tidys # optional
           # The Gitee password
-          gitee-password: 3127111041 # optional
+          gitee-password: ${{ secrets.GITEE_PWD }} # optional
           # The Gitee repository, like doocs/leetcode
           gitee-repo:  doc
           # Which branch to build
