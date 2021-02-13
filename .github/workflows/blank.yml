@@ -31,6 +31,7 @@ jobs:
         run: 
           node ./tools/index.js
           echo $Key
+          echo hello------
         
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
