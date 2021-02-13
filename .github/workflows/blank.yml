@@ -37,8 +37,8 @@ jobs:
             SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         with:
             # 注意替换为你的 GitHub 源仓库地址
-            source-repo: "git@gitee.com:tidys/doc.git"
-         
+            source-repo: "git@github.com:tidys/tidys.github.io.git"
+            destination-repo: "git@gitee.com:tidys/doc.git"
 
       - name: Gitee Pages Action
       # uses: yanglbme/gitee-pages-action@a813811f52ed4f53010702a528b72053bd04685f
