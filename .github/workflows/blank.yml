@@ -40,7 +40,6 @@ jobs:
          
 
       - name: Gitee Pages Action
-      # You may pin to the exact commit or the version.
       # uses: yanglbme/gitee-pages-action@a813811f52ed4f53010702a528b72053bd04685f
         uses: yanglbme/gitee-pages-action@v1.2.6
         with:
