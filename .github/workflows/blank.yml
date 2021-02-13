@@ -29,9 +29,9 @@ jobs:
         env: 
           Key: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         run: 
-          node ./tools/index.js
-          echo $Key
           echo hello------
+          echo $Key
+          echo world------
         
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
