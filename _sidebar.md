@@ -43,6 +43,7 @@
     - [多语言插件](docs/i18n/index.md)
         - [工作流程](docs/i18n/tool.md)
         - [工具使用](docs/i18n/tool-use.md)
+    - [翻译助手](docs/translate/index.md)
 
 - [教程](tutorial/index.md)
     - [插件基础知识](tutorial/commonSense/index.md)
