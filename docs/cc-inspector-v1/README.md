@@ -7,7 +7,7 @@
 <iframe src="//player.bilibili.com/player.html?aid=549224335&bvid=BV1Wq4y1u7Fj&cid=442178937&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="900"> </iframe>
 
 ## 插件安装
-- [点击查看如何安装](./install.md)
+- [点击查看如何安装](./docs/cc-inspector-v1/install.md)
  
 ## 如何使用
 - 在chrome浏览器中运行creator开发的游戏
