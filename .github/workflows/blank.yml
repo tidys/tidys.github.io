@@ -1,7 +1,7 @@
 
 name: CI
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
@@ -23,7 +23,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
- 
+
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
         env:
@@ -42,7 +42,7 @@ jobs:
           # The Gitee password
           gitee-password: ${{ secrets.GITEE_PWD }} # optional
           # The Gitee repository, like doocs/leetcode
-          gitee-repo:  doc
+          gitee-repo:  xu_yanfeng/doc
           # Which branch to build
           branch: master # optional, default is master
           # Use force https or not
