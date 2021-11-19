@@ -42,7 +42,7 @@ jobs:
           # The Gitee password
           gitee-password: ${{ secrets.GITEE_PWD }} # optional
           # The Gitee repository, like doocs/leetcode
-          gitee-repo:  xu_yanfeng/doc
+          gitee-repo:  tidys/doc
           # Which branch to build
           branch: master # optional, default is master
           # Use force https or not
