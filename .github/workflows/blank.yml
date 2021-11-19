@@ -35,7 +35,7 @@ jobs:
 
       - name: Gitee Pages Action
       # uses: yanglbme/gitee-pages-action@a813811f52ed4f53010702a528b72053bd04685f
-        uses: yanglbme/gitee-pages-action@v1.2.6
+        uses: yanglbme/gitee-pages-action@main
         with:
           # The Gitee username, like yanglbme
           gitee-username: ${{ secrets.GITEE_REPO }} # optional
