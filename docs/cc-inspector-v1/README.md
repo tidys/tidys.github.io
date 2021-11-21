@@ -12,8 +12,8 @@
 ## 如何使用
 - 在chrome浏览器中运行creator开发的游戏
 - F12打开**开发者工具**你会发现多了一个cocos选项
-  ![](./cc-inspector1/ccinspector1_scene1.png)
+>![](./cc-inspector1/ccinspector1_scene1.png)
 - 点击**刷新**按钮即可查看游戏运行时的节点目录树,左侧为节点,右侧为节点信息
-  ![](./cc-inspector1/tree.png) 
+>![](./cc-inspector1/tree.png) 
 - 修改节点信息中active属性,将直接影响运行中的游戏效果
-  ![](./cc-inspector1/showHideNode.gif) 
+>![](./cc-inspector1/showHideNode.gif) 

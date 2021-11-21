@@ -13,6 +13,7 @@
         - [视频教程](docs/story-master/video.md)
     - [CC-Inspector](docs/cc-inspector-v1/README.md)
         - [如何安装](docs/cc-inspector-v1/install.md)
+        - [V2.0.1](docs/cc-inspector-v1/2.0.1.md)
     - [CC-Inspector+](docs/cc-inspector-v2/readme.md)
         - [使用方法](docs/cc-inspector-v2/index.md)
         - [推荐工作流](docs/cc-inspector-v2/recommend.md)
