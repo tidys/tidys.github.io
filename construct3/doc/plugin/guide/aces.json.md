@@ -10,6 +10,49 @@ actions、conditions、expressions简称ACE，用来指一个动作、条件、�
     }
 }
 ```
+完整示例：
+```json
+{
+	"custom": {
+		"conditions": [
+			{
+				"id": "is-large-number",
+				"scriptName": "IsLargeNumber",
+				"highlight": true,
+				"params": [
+					{
+						"id": "number",
+						"type": "number"
+					}
+				]
+			}
+		],
+		"actions": [
+			{
+				"id": "do-alert",
+				"scriptName": "Alert",
+				"highlight": true
+			}
+		],
+		"expressions": [
+			{
+				"id": "double",
+				"expressionName": "Double",
+				"scriptName": "Double",
+				"highlight": true,
+				"returnType": "number",
+				"params": [
+					{
+						"id": "number",
+						"type": "number"
+					}
+				]
+			}
+		]
+	}
+}
+```
+
 每个key都是类别ID，在编辑器中显示的字符，会从语言文件中查找
 
 ACE中的每条数据都是一个json
