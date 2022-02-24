@@ -1,6 +1,13 @@
 # sail
 
-从construct3获取灵感，针对cocos creator的bundle机制，进行深度定制的一款less code game editor，支持以bundle的形式扩展编辑器。
+
+第一次接触construct3，真正的零代码，1分钟制作一个简单的平台跳跃游戏demo，一下子就抓住了我的心。
+
+construct3发展至今，已经有11年的历史了，足以证明其在该领域的实力。
+
+sail是一款从construct3获取灵感，针对cocos creator的bundle机制，进行深度定制的一款`less code game editor`，支持以bundle的形式扩展编辑器。
+
+在线体验： http://tidys.gitee.io/game-wing/#/
 
 开源地址： https://gitee.com/tidys/game-wing
 
@@ -55,6 +62,7 @@ sail编辑器从底层就以bundle为基础进行功能的扩充搭建，所以�
 - editor的扩展性良好
 - 资源商店bundle的多样性
 - 局域网部署，开箱即用
+- 探索制作更多种类游戏的的可能性
 - 商业模式：参考construct3的订阅收费，技术支持。
 
-> 开了一个大坑，bug非常多，劝退警告！
+> 开了一个大坑，bug非常多，请我喝个咖啡吧~
