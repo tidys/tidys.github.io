@@ -53,6 +53,9 @@
         - [入门篇](tutorial/net-lesson/lesson1.md)
 - [视频教程](./video/index.md)
 
+- [Sail](sail/index.md)
+  - [sail bundle](sail/bundle.md)
+
 - [Construct3](construct3/README.md)
     - [新手指南](construct3/doc/beginner/index.md)
         - [初学者教程](construct3/doc/beginner/beginner-guide.md)
