@@ -7,7 +7,8 @@
 ## 1.开发者安装模式(推荐)
 - 打开`chrome://extensions/`，启用`开发者模式`。
 > ![image](./cc-inspector1/3.png)
-- 如果你手中的程序安装包是*.crx文件,这个是chrome的插件安装文件,需要将*.crx修改为*.zip,然后再次解压.
+- 如果你手中的程序安装包是`*.crx`文件，这个是chrome的插件安装文件，需要将`*.crx`修改为`*.zip`，然后再次解压，解压后的文件里面包含`manifest.json`，这个文件是Chrome插件的标识文件
+> ![解压后的目录示例](./cc-inspector1/unzip.png)
 - 点击`加载已解压的扩展程序`，选择刚刚解压出来的文件夹。
 > ![image](./cc-inspector1/4.png)
 - 成功安装的状态如下：
