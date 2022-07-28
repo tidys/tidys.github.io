@@ -46,7 +46,8 @@
         - [工作流程](docs/i18n/tool.md)
         - [工具使用](docs/i18n/tool-use.md)
     - [翻译助手](docs/translate/index.md)
-
+    - [图标工具](docs/icon-tool/index.md)
+  
 - [教程](tutorial/index.md)
     - [插件基础知识](tutorial/commonSense/index.md)
     - [插件开发教程](tutorial/net-lesson/index.md)
