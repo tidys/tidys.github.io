@@ -11,6 +11,7 @@
             - [构建发布](docs/story-master/use/build.md)
             - [关于插件](docs/story-master/use/about.md)
         - [视频教程](docs/story-master/video.md)
+    - [项目'垃圾'工具](docs/noise/index.md)
     - [CC-Inspector](docs/cc-inspector-v1/README.md)
         - [如何安装](docs/cc-inspector-v1/install.md)
         - [可能遇到的问题](docs/cc-inspector-v1/problem.md)  
