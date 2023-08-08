@@ -1,4 +1,5 @@
-- [**QQ群 224756137**](https://jq.qq.com/?_wv=1027&k=n5wohJwz)
+- **QQ  : 774177933**
+- [**QQ群: 224756137**](https://jq.qq.com/?_wv=1027&k=n5wohJwz)
 
 - [插件文档](./docs/index.md)
     - [故事大师(Story-Master)](docs/story-master/index.md)

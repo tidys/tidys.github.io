@@ -1,0 +1,4 @@
+- 微信：xu__yanfeng
+- QQ: 774177933
+- [**CocosCreator插件交流QQ群 224756137**](https://jq.qq.com/?_wv=1027&k=n5wohJwz)
+- 可提供的服务：插件定制，插件咨询
