@@ -1,6 +1,10 @@
 - **QQ  : 774177933**
 - [**QQ群: 224756137**](https://jq.qq.com/?_wv=1027&k=n5wohJwz)
 
+- [插件教程](tutorial/index.md)
+    - [基础知识](tutorial/commonSense/index.md)
+    - [Creator2.x插件开发视频教程](tutorial/net-lesson/lesson1.md)
+    - [Creator3.x插件开发系列教程](./tutorial/creator3.x.md)
 - [插件文档](./docs/index.md)
     - [故事大师(Story-Master)](docs/story-master/index.md)
         - [插件市场背景](docs/story-master/why.md)
@@ -50,11 +54,7 @@
     - [翻译助手](docs/translate/index.md)
     - [图标工具](docs/icon-tool/index.md)
   
-- [教程](tutorial/index.md)
-    - [插件基础知识](tutorial/commonSense/index.md)
-    - [插件开发教程](tutorial/net-lesson/index.md)
-        - [入门篇](tutorial/net-lesson/lesson1.md)
-- [视频教程](./video/index.md)
+
 
 - [Sail](sail/index.md)
   - [sail bundle](sail/bundle.md)

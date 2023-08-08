@@ -1,0 +1,2 @@
+- [CocosCreator3D插件教程(1)：hello-world](https://mp.weixin.qq.com/s/KzmV6qYt4LsTL8bkhuO2SA)
+- [CocosCreator3D插件教程(2)：给插件添加菜单](https://mp.weixin.qq.com/s/1qiiwuoMMt0JuyZTxsVrYg)
