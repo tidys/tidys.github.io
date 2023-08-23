@@ -10,5 +10,6 @@
         "git.autofetch": false
     },
     "git.timeline.showAuthor": false,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "files.autoSave": "onFocusChange"
 }
