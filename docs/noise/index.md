@@ -17,8 +17,7 @@
 - 添加等量的noise节点：从noise prefab中随机N个prefab，并添加这N个prefab，使得N个prefab的节点数量大于目标prefab节点的数量。
 
 暂时只支持creator2.x，视情况开发支持3.x
-# 视频教程
-
-... 待完善
+# [视频教程](https://www.bilibili.com/video/BV1x94y1z7yA/)
 
 
+<iframe src="//player.bilibili.com/player.html?bvid=BV1x94y1z7yA&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600"> </iframe>

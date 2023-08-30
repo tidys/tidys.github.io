@@ -43,6 +43,7 @@
             - [关于插件](docs/story-master/use/about.md)
         - [视频教程](docs/story-master/video.md)
     - [资源混淆工具(马甲包)](docs/noise/index.md)
+    - [编辑器ipc消息拦截器](docs/ipc-hook/index.md)
     - [CC-Inspector](docs/cc-inspector-v1/README.md)
         - [如何安装](docs/cc-inspector-v1/install.md)
         - [可能遇到的问题](docs/cc-inspector-v1/problem.md)  
@@ -81,7 +82,7 @@
     - [图标工具](docs/icon-tool/index.md)
   
 
-
+- [vscode插件](vscode-plugin/index.md)
 - [Sail](sail/index.md)
   - [sail bundle](sail/bundle.md)
 
