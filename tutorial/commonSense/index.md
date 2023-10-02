@@ -6,6 +6,7 @@ CocosCreator插件是基于CocosCreator运行的一种插件程序
 - 插件的开发规范受CocosCreator的约束
 
 ## 如何下载插件
+> 注意：随着cocos creator的版本更新，使用操作也会发生变化，请注意甄别，文档无法做到同步跟新。
 CocosCreator有自己的[插件商店](http://store.cocos.com/),所有开发者提交的插件都会放在这里,要下载使用这些插件,你需要:
 1. 下载并安装[Cocos Creator](https://www.cocos.com/history)
 2. 打开cocos creator,在菜单中依次点击 扩展=>扩展商店, 来到插件商店
@@ -16,6 +17,23 @@ CocosCreator有自己的[插件商店](http://store.cocos.com/),所有开发者�
     ![](.index_images/66aa718e.png)
     - 项目目录: 只有本项目工程才能使用这个插件
     - 全局目录: 所有的Creator项目都可以使用这个插件
+
+## 如何手动安装cocos creator插件
+假设你手中有一份cocos creator插件
+
+对于`cocos creator2.x`版本来说，你需要将插件放到项目的packages目录即可
+- project
+    - assets
+    - packages
+        - 插件1
+        - 插件2
+        
+对于`cocos creator3.x`版本来说，你需要将插件放到项目的extensions目录即可，目录结构为
+- project
+    - assets
+    - extensions
+        - 插件1
+        - 插件2
 
 ## 如何移除插件
 ### 全局安装
