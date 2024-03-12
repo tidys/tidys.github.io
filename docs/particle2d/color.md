@@ -29,11 +29,14 @@
     - startColorVar = 透明黑色 = rgba(0,   0,   0,   0) 
     - endColor   = 白色 = rgba(255, 255, 255, 255) 
     - endColorVar   = 透明黑色 = rgba(0,   0,   0,   0) 
-- 混合模式设置:       
-![](ab504dac.png)
+- 粒子纹理混合模式设置:   
+  
+  ![](blend.jpg)
+
+  ![](ab504dac.png)
  
 为什么是这样子呢?
-我们看一下这张绿色图片的叠加色计算过程: 
+我们看一下这张绿色图片（粒子纹理）的叠加色计算过程: 
 
 ```
 叠加色.r = startColor.r ± startColor.r/2 = 0 ± 0 = 0 
