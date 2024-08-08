@@ -3,6 +3,7 @@
 
 - [插件教程](tutorial/index.md)
     - [基础知识](tutorial/commonSense/index.md)
+    - [问题集锦](tutorial/commonSense/v3.md)
     - [Creator2.x插件开发视频教程](tutorial/net-lesson/lesson1.md)
     - [Creator3.x插件开发系列教程](./tutorial/creator3.x.md)
 - [插件文档](./docs/index.md)
