@@ -3,7 +3,10 @@
   "version": "2.0.0",
   "description": "自己的插件文档库",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "docsify": "^4.13.1",
+    "docsify-cli": "^4.4.4"
+  },
   "scripts": {
     "serve": "docsify serve ./"
   },
