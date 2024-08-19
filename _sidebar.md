@@ -1,6 +1,13 @@
 - **QQ  : 774177933**
 - [**QQ群: 224756137**](https://jq.qq.com/?_wv=1027&k=n5wohJwz)
-
+- [Cocos资料大全](/dev/index.md)
+  - [cocos2d-x](dev/cocos2d-x.md)
+  - [quick](dev/quick.md)
+  - [cocos studio](dev/cocos-studio.md)
+  - [cocos-js](dev/cocos-js.md)
+  - [cocos creator](dev/cocos-creator.md)
+  - [android](dev/android.md)
+  - [第三方游戏工具](dev/game-soft.md)
 - [插件教程](tutorial/index.md)
     - [基础知识](tutorial/commonSense/index.md)
     - [问题集锦](tutorial/commonSense/v3.md)
