@@ -39,6 +39,7 @@
       - [(21)：编写适合自己的插件打包流程](/tutorial/creator3.x/24-编写适合自己的插件打包流程.md)
 
     - [Creator3.x插件开发系列教程-微信发布](./tutorial/creator3.x.md)
+    - [使用CC-Plugin开发Creator插件系列教程](./tutorial/ccp/index.md)
 - [插件文档](./docs/index.md)
     - [故事大师(Story-Master)](docs/story-master/index.md)
         - [插件市场背景](docs/story-master/why.md)
