@@ -1,5 +1,3 @@
-- **QQ  : 774177933**
-- [**QQ群: 224756137**](https://jq.qq.com/?_wv=1027&k=n5wohJwz)
 - [Cocos资料大全](/dev/index.md)
   - [cocos2d-x](dev/cocos2d-x.md)
   - [quick](dev/quick.md)
@@ -11,7 +9,7 @@
 - [插件教程](tutorial/index.md)
     - [基础知识](tutorial/commonSense/index.md)
     - [问题集锦](tutorial/commonSense/v3.md)
-    - [Creator2.x插件开发视频教程](tutorial/net-lesson/lesson1.md)
+    - [Creator2.x插件开发视频教程](./tutorial/creator2.x/index.md)
     - [Creator3.x插件开发系列教程](./tutorial/creator3.x.md)
     - [Creator2.x插件开发视频教程](./tutorial/creator2.x/index.md)
     - [Creator3.x插件开发系列教程](./tutorial/creator3.x/0-index.md)
