@@ -2,10 +2,17 @@
 
 一款编辑粒子的插件,和市面上的粒子编辑器区别不大,里面加入了作者自己对参数的一些理解，完全汉化界面、参数图形可视化调整，更方便非程序人员使用,快速调整出来自己想要的粒子效果
 
+## 插件web在线试用
+
+https://tidys.github.io/cc-particle-online/main.html
+
+买的放心，用的省心。
+
 ## 安装下载
 如何安装下载安装插件,请看[文档](../../tutorial/commonSense/index.md)
 
-插件下载地址： http://store.cocos.com/stuff/show/178996.html
+插件下载地址： https://store.cocos.com/app/detail/2117
+
 ![](894f3f09.png)
 
 ## 视频教程
