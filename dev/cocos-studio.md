@@ -14,6 +14,7 @@
 | v2.0.6                               | [win](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.0.6.exe)         /  [mac](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.0.6.dmg)         |
 | v2.1-Beta                            | [win](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1-Beta.exe)      /  [mac](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1-Beta.dmg)      |
 | v2.1                                 | [win](http://www.cocos2d-x.org/filedown/CocosStudioForWin-v2.1.exe)           /  [mac](http://www.cocos2d-x.org/filedown/CocosStudioForMac-v2.1.dmg)           |
+| v3.10                                | [win](http://cocos2d-x.org/filedown/CocosForWin-v3.10.exe)                    /  [mac](http://cocos2d-x.org/filedown/CocosForMac-v3.10.dmg)                |
 
 
 # Cocos2d-x 与 Cocos Studio 版本对应关系
