@@ -89,7 +89,7 @@
         - [工具使用](docs/i18n/tool-use.md)
     - [翻译助手](docs/translate/index.md)
     - [图标工具](docs/icon-tool/index.md)
-  
+    - [plist拆图](docs/plist-cut/index.md)
 
 - [vscode插件](vscode-plugin/index.md)
 - [Sail](sail/index.md)
