@@ -21,10 +21,13 @@ https://tidys.github.io/cc-particle-online/main.html
 
 ## 如何打开插件
 - 2.x
+
   ![](open2x.png)
+
 - 3.x
+ 
   ![alt text](open3x.png)
-  
+
 ## 使用说明
 - 粒子纹理支持直接拖拽
 - 部分粒子参数进行了可视化图形操作
