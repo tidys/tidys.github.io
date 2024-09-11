@@ -28,6 +28,8 @@ https://tidys.github.io/cc-particle-online/main.html
  
   ![alt text](open3x.png)
 
+如果你没有以上的插件菜单，请仔细检查你是否安装成功，如果安装过程中遇到任何问题，欢迎联系我。
+
 ## 使用说明
 - 粒子纹理支持直接拖拽
 - 部分粒子参数进行了可视化图形操作
